@@ -1,0 +1,7 @@
+!! This is a comment in raw16
+"This is a string in raw16"
+#E5                 !! This is an hexadecimal number
+108                 !! This is a number in decimal
+@"FileName"         !! This is how you include a file
+$Macroname          !! This is how you include a macro
+[Macroname ... ]    !! This is how you define a macro
